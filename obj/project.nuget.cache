@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kDwfKO9lLTA=",
+  "success": true,
+  "projectFilePath": "D:\\User\\Desktop\\estudo\\Video Aulas\\1. Programador Tech - Acaciano Neves\\2. Fazendo\\ControleContatos\\ControleContatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kelton\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Kelton\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Kelton\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Kelton\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
